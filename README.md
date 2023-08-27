@@ -1,5 +1,5 @@
 
-# FiveM Discord Bot Made with ❤️ by TomBui
+# FiveM Discord Bot
 
 
 This Discord bot interacts with a FiveM server to provide information about player counts and server status.
