@@ -24,7 +24,7 @@ Make sure to replace correct line 105 (Server IP and PORT) and line 138 if you h
 3. Run: //cd..../python3 ANTBot.py
  
 
-
+Made with ❤️ by TomBui
 
 
 
